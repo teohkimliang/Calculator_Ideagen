@@ -1,0 +1,7 @@
+C:\Users\60125\source\repos\Calculator -Ideagen\Calculator -Ideagen\obj\Debug\Calculator -Ideagen.csproj.CoreCompileInputs.cache
+C:\Users\60125\source\repos\Calculator -Ideagen\Calculator -Ideagen\bin\Debug\Calculator -Ideagen.exe.config
+C:\Users\60125\source\repos\Calculator -Ideagen\Calculator -Ideagen\bin\Debug\Calculator -Ideagen.exe
+C:\Users\60125\source\repos\Calculator -Ideagen\Calculator -Ideagen\bin\Debug\Calculator -Ideagen.pdb
+C:\Users\60125\source\repos\Calculator -Ideagen\Calculator -Ideagen\obj\Debug\Calculator -Ideagen.exe
+C:\Users\60125\source\repos\Calculator -Ideagen\Calculator -Ideagen\obj\Debug\Calculator -Ideagen.pdb
+C:\Users\60125\source\repos\Calculator -Ideagen\Calculator -Ideagen\obj\Debug\Calculator -Ideagen.csproj.AssemblyReference.cache
